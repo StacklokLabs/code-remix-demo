@@ -1,0 +1,23 @@
+[project]
+name = "langchain codegate demo"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "aiohttp>=3.11.18",
+    "blinker>=1.9.0",
+    "crewai>=0.114.0",
+    "langchain>=0.3.23",
+    "langchain-community>=0.3.21",
+    "langchain-core>=0.3.54",
+    "langchain-openai>=0.3.14",
+    "langgraph>=0.3.34",
+    "openai>=1.75.0",
+    "protobuf>=5.29.4",
+    "python-dotenv>=1.1.0",
+    "pyyaml>=6.0.2",
+    "rich>=13.9.4",
+    "streamlit>=1.44.1",
+    "typing-extensions>=4.13.2",
+]

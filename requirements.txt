@@ -1,0 +1,12 @@
+streamlit
+langchain==0.3.24
+langgraph
+python-dotenv
+# Add specific versions if needed, e.g.:
+# streamlit==1.30.0
+# langgraph==0.0.20
+blinker
+protobuf
+typing_extensions
+langchain-core==0.3.56
+PyYAML
