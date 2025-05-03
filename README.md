@@ -1,7 +1,7 @@
 # CodeGate Langchain Demonstration
 
 This repository demonstrates the use of Langchain with CodeGate for various demos,
-by means of a mocked chatbot using Langchains StateGraph to create two agents
+by means of a mocked chatbot using Langchains StateGraph to create two agents:
 
 - Customer Care Agent
 - Escalation Agent
@@ -18,7 +18,7 @@ uv sync
 2. Make sure you have an OpenAI provider and add an active key
 3. Within the workspace, add a model, any will do, gpt4 is fine.
 
-```bash
+
 ## Start streamlit
 
 ```bash
